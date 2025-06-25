@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Lost and Found</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1> Lost and Found Cases</h1>
+    <p class="tagline">Strangest tales from the evidence board...</p>
+    <img src="https://images.indianexpress.com/2016/05/lost-and-found-lead.jpg?w=414" >
+  </header>
+
+  <section class="case">
+    <h2> Lost</h2>
+    <p>A single red glove was reported missing at the metro station. Strangely, it reappeared two days later, inside a sealed locker no one own,s.</p>
+  </section>
+
+  <section class="case">
+    <h2> Found</h2>
+    <p>A cardboard box full of ancient coins turned up outside a local café. No one has claimed it. Legend says the place was built over an old bank.</p>
+  </section>
+
+  <section class="case">
+    <h2> Odd Cases</h2>
+    <p>Someone found a notebook filled with invisible ink. With heat, odd symbols appeared, including a map......................... that leads nowhere, or maybe everywhere</p>
+  </section>
+
+</body>
+</html>
